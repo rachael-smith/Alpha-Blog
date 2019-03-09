@@ -32,6 +32,23 @@ $navbar-default-bg: #515151;
     }
   }
 }
+.article-actions{
+  border-top: 1px solid #BBBBBB;
+  .article-action-buttons{
+    margin-top:10px;
+  }
+}
+.description{
+  margin-top:0;
+}
+.article-title{
+  font-weight:bold;
+  font-size: 1.5em;
+}
+.article-description{
+  border-top: 1px solid #BBBBBB;
+  padding: 15px 0;
+}
 footer{
   margin-top:45px;
   padding-top: 5px;
